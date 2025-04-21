@@ -51,3 +51,12 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 ###
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sanghmitra07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Sanghmitra07&icon=3&color=3)](https://visitcount.itsvg.in)
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sanghmitra07&label=Profile%20views&color=0e75b6&style=flat" alt="Sanghmitra07" /> </p>
